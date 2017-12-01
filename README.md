@@ -1,2 +1,2 @@
-# ai_tensorflow
+# deep learning for tensorflow
 Some algorithm about Tensorflow, just for study.
